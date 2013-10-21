@@ -47,6 +47,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detail.Designer.cs">
+      <DependentUpon>Detail.cs</DependentUpon>
+    </Compile>
     <Compile Include="IntegerComparer.cs" />
     <Compile Include="MutiplyMtrx.cs">
       <SubType>Form</SubType>
@@ -56,6 +62,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Detail.resx">
+      <DependentUpon>Detail.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MutiplyMtrx.resx">
       <DependentUpon>MutiplyMtrx.cs</DependentUpon>
     </EmbeddedResource>

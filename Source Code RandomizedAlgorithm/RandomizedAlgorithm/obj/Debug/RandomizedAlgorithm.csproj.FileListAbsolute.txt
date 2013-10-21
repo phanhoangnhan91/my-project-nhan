@@ -65,3 +65,28 @@ D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedA
 D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.application
 D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.exe.manifest
 D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.application
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.exe.config
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.exe
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.pdb
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.exe.manifest
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.application
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.exe
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.pdb
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Client.exe
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Kruskal.dll
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\MultiplyMatrix.exe
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ProjectClosestPair.exe
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ProjectQuicksort.exe
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\test prime.exe
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\MultiplyMatrix.pdb
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Client.pdb
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Kruskal.pdb
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ProjectClosestPair.pdb
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ProjectQuicksort.pdb
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\test prime.pdb
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.csprojResolveAssemblyReference.cache
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.Form1.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.Properties.Resources.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.csproj.GenerateResource.Cache
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.exe.manifest
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.application
