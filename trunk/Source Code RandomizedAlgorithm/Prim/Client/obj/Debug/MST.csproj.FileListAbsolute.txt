@@ -28,3 +28,18 @@ D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\obj\Debug\MST.csproj.Generate
 D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\obj\Debug\Client.exe
 D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\obj\Debug\Client.pdb
 D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\obj\Debug\Prim.Detail.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\bin\Debug\Client.exe.config
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\bin\Debug\Client.exe
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\bin\Debug\Client.pdb
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\bin\Debug\Kruskal.dll
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\bin\Debug\Kruskal.pdb
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\MST.csprojResolveAssemblyReference.cache
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Prim.Detail.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Prim.dothi.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Client.FormInputNumberEdge.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Prim.frmCost.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Prim.frmMinimuSpanningStree.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\MST.csproj.GenerateResource.Cache
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Client.exe
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Client.pdb

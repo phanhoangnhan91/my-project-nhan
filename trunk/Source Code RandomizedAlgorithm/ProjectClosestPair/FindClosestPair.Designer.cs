@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.btDel = new System.Windows.Forms.Button();
             this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.label2 = new System.Windows.Forms.Label();
@@ -48,6 +48,7 @@
             this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.label1 = new System.Windows.Forms.Label();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.chk_detail = new System.Windows.Forms.CheckBox();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage2.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -83,7 +84,7 @@
             // lbresult
             // 
             this.lbresult.AutoSize = true;
-            this.lbresult.Location = new System.Drawing.Point(80, 353);
+            this.lbresult.Location = new System.Drawing.Point(80, 357);
             this.lbresult.Name = "lbresult";
             this.lbresult.Size = new System.Drawing.Size(55, 17);
             this.lbresult.TabIndex = 3;
@@ -91,7 +92,7 @@
             // 
             // btRA
             // 
-            this.btRA.Location = new System.Drawing.Point(414, 306);
+            this.btRA.Location = new System.Drawing.Point(412, 319);
             this.btRA.Name = "btRA";
             this.btRA.Size = new System.Drawing.Size(159, 36);
             this.btRA.TabIndex = 50;
@@ -101,7 +102,7 @@
             // 
             // btDC
             // 
-            this.btDC.Location = new System.Drawing.Point(248, 306);
+            this.btDC.Location = new System.Drawing.Point(246, 319);
             this.btDC.Name = "btDC";
             this.btDC.Size = new System.Drawing.Size(160, 36);
             this.btDC.TabIndex = 40;
@@ -121,7 +122,7 @@
             // 
             // btBF
             // 
-            this.btBF.Location = new System.Drawing.Point(82, 305);
+            this.btBF.Location = new System.Drawing.Point(80, 318);
             this.btBF.Name = "btBF";
             this.btBF.Size = new System.Drawing.Size(160, 36);
             this.btBF.TabIndex = 30;
@@ -170,7 +171,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 25);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(739, 416);
+            this.tabPage2.Size = new System.Drawing.Size(739, 449);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Running time chart";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -185,17 +186,17 @@
             // 
             // chart1
             // 
-            chartArea3.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea3);
-            legend3.Name = "Legend1";
-            this.chart1.Legends.Add(legend3);
+            chartArea1.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea1);
+            legend1.Name = "Legend1";
+            this.chart1.Legends.Add(legend1);
             this.chart1.Location = new System.Drawing.Point(13, 13);
             this.chart1.Name = "chart1";
-            series3.ChartArea = "ChartArea1";
-            series3.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series3.Legend = "Legend1";
-            series3.Name = "Series1";
-            this.chart1.Series.Add(series3);
+            series1.ChartArea = "ChartArea1";
+            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series1.Legend = "Legend1";
+            series1.Name = "Series1";
+            this.chart1.Series.Add(series1);
             this.chart1.Size = new System.Drawing.Size(354, 379);
             this.chart1.TabIndex = 0;
             this.chart1.Text = "chart1";
@@ -211,6 +212,7 @@
             // 
             // tabPage1
             // 
+            this.tabPage1.Controls.Add(this.chk_detail);
             this.tabPage1.Controls.Add(this.label2);
             this.tabPage1.Controls.Add(this.lbresult);
             this.tabPage1.Controls.Add(this.btRA);
@@ -222,10 +224,20 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 25);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(739, 416);
+            this.tabPage1.Size = new System.Drawing.Size(739, 449);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Algorithm";
             this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // chk_detail
+            // 
+            this.chk_detail.AutoSize = true;
+            this.chk_detail.Location = new System.Drawing.Point(80, 296);
+            this.chk_detail.Name = "chk_detail";
+            this.chk_detail.Size = new System.Drawing.Size(106, 21);
+            this.chk_detail.TabIndex = 25;
+            this.chk_detail.Text = "Show details";
+            this.chk_detail.UseVisualStyleBackColor = true;
             // 
             // tabControl1
             // 
@@ -235,14 +247,14 @@
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(747, 445);
+            this.tabControl1.Size = new System.Drawing.Size(747, 478);
             this.tabControl1.TabIndex = 1;
             // 
             // FindClosestPair
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(747, 445);
+            this.ClientSize = new System.Drawing.Size(747, 478);
             this.Controls.Add(this.tabControl1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -282,5 +294,6 @@
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.DataVisualization.Charting.Chart chart1;
+        private System.Windows.Forms.CheckBox chk_detail;
     }
 }

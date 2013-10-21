@@ -15,3 +15,23 @@ D:\SVN server\Code\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClose
 D:\SVN server\Code\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.csproj.GenerateResource.Cache
 D:\SVN server\Code\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.exe
 D:\SVN server\Code\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.pdb
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\ProjectClosestPair\bin\Debug\ProjectClosestPair.exe.config
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\ProjectClosestPair\bin\Debug\ProjectClosestPair.exe
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\ProjectClosestPair\bin\Debug\ProjectClosestPair.pdb
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.csprojResolveAssemblyReference.cache
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.FindClosestPair.resources
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.Properties.Resources.resources
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.csproj.GenerateResource.Cache
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.exe
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.pdb
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.Detail.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\ProjectClosestPair\bin\Debug\ProjectClosestPair.exe.config
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\ProjectClosestPair\bin\Debug\ProjectClosestPair.exe
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\ProjectClosestPair\bin\Debug\ProjectClosestPair.pdb
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.csprojResolveAssemblyReference.cache
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.Detail.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.FindClosestPair.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.Properties.Resources.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.csproj.GenerateResource.Cache
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.exe
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.pdb

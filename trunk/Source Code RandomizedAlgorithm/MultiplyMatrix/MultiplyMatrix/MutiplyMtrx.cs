@@ -48,6 +48,47 @@ namespace MultiplyMatrix
                 }
             return true;
         }
+
+        int rowCompare, columnCompare;
+        private bool CompareMTDetail(int[,] A, int[,] B)
+        {
+            rowCompare = -1; 
+            columnCompare = -1;
+            for (int i = 0; i < A.GetLength(0); i++)
+                for (int j = 0; j < A.GetLength(1); j++)
+                {
+                    if (A[i, j] != B[i, j])
+                    {
+                        detail += "Find out different at row: " + (i+1).ToString() + " -column: " + (j+1).ToString()+"\r\n";
+                        rowCompare = i;
+                        columnCompare = j;
+                        return false;
+                    }
+
+                }
+            detail += "AxB=C\r\n";
+            return true;
+        }
+        //dùng cho detail
+        private string PrintMatrix(int[,] MT,int r,int c)
+        {
+            StringBuilder str = new StringBuilder();
+
+            for (int i = 0; i < MT.GetLength(0); i++)
+            {
+                for (int j = 0; j < MT.GetLength(1); j++)
+                {
+                    if (r == i & j == c)
+                    {
+                        str.Append("-->"+MT[i, j].ToString() + " ");
+                    }
+                    else
+                        str.Append(MT[i, j].ToString() + " ");
+                }
+                str.AppendLine();
+            }
+            return str.ToString().TrimEnd();
+        }
         //Trừ ma trận
         private int[,] SubtractionMT(int[,] A, int[,] B, int d, int c)
         {
@@ -167,7 +208,7 @@ namespace MultiplyMatrix
                 MessageBox.Show(ex.Message,"Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
         }
-
+        string detail;
         private void btMultiply_Click(object sender, EventArgs e)
         {
             try
@@ -181,6 +222,7 @@ namespace MultiplyMatrix
                 {
                     throw new Exception("The size of matrices must be equal or greater than 2!");
                 }
+                
                 tbResultBF.Clear();
                 lbResult1.Text = "";
                 int[,] MTResult;
@@ -214,6 +256,17 @@ namespace MultiplyMatrix
                 rs += "Running time: " + microseconds.ToString() + " microseconds";
                 lbResult1.Text = rs;
                 tbResultBF.Text = PrintMatrix(MTResult);
+                if (chk_detail.Checked == true)
+                {
+                    detail = "";
+                    Detail f = new Detail();
+                    CompareMTDetail(MTResult, MTC);
+                    detail +="AxB=\r\n" +PrintMatrix(MTResult,rowCompare,columnCompare);
+                    detail += "\r\nC=\r\n" + PrintMatrix(MTC, rowCompare, columnCompare) + "\r\n";
+                    
+                    f.result = detail;
+                    f.ShowDialog();
+                }
 
             }
             catch(Exception ex)
@@ -221,6 +274,8 @@ namespace MultiplyMatrix
                 MessageBox.Show(ex.Message,"Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
         }
+
+        
 
         string strVector = "";
         private void btRA_Click(object sender, EventArgs e)
@@ -237,6 +292,7 @@ namespace MultiplyMatrix
                 {
                     throw new Exception("The size of matrices must be equal or greater than 2!");
                 }
+                detail = "";
                 dem = 0;
                 lbResult2.Text = "";
                 tbResultF.Clear();
@@ -246,6 +302,7 @@ namespace MultiplyMatrix
                 {
                      throw new Exception("Invalid value!");
                 }
+
                 int[,] MTA = createMT("A", tbMTA.Text, MTsize);
                 if (MTA == null)
                     return;
@@ -255,11 +312,7 @@ namespace MultiplyMatrix
                 int[,] MTC = createMT("C", tbMTC.Text, MTsize);
                 if (MTC == null)
                     return;
-                //if (startF) //chạy nháp ko tính 
-                //{
-                //    bool compareDrafts = MatrixEqualityTest(MTA, MTB, MTC,ref k);
-                //    startF = false;
-                //}
+
                 Stopwatch sw = Stopwatch.StartNew();
                 bool compare = MatrixEqualityTest(MTA, MTB, MTC,ref k);
                 sw.Stop();
@@ -278,12 +331,58 @@ namespace MultiplyMatrix
                 rs += "Running time " + microseconds.ToString() + " microseconds";
                 lbResult2.Text = rs;
 
+
+                if (chk_detail.Checked)
+                {
+                    detail = "";
+                    Detail f = new Detail();
+                    MatrixEqualityTestDetail(MTA, MTB, MTC,ref k);
+
+                    f.result = detail;
+                    f.ShowDialog();
+                }
             }
             catch(Exception ex)
             {
                 MessageBox.Show(ex.Message,"Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
         }
+
+        private bool MatrixEqualityTestDetail(int[,] MTA, int[,] MTB, int[,] MTC, ref int k)
+        {
+            strVector = "";
+            int MTsize = MTA.GetLength(0);
+            for (int j = 0; j < k; j++)
+            {
+                //Tạo vector ngẫu nhiên r
+                int[,] vectorR = new int[MTsize, 1];
+                for (int i = 0; i < MTsize; i++)
+                {
+                    vectorR[i, 0] = random.Next(0, 2);
+                }
+                //mỗi lần chạy in vector ngẫu nhiên 
+                detail += "random vector in trial " + (j + 1).ToString() + ":\r\n" + PrintMatrix(vectorR) + "\r\n";
+                dem++;
+
+                int[,] MTResultL, MTResultR;
+                //A x (B x r)
+                MTResultL = MultiplyMT(MTB, vectorR, MTsize, MTsize, 1);
+                MTResultL = MultiplyMT(MTA, MTResultL, MTsize, MTsize, 1);               
+                //C x r
+                MTResultR = MultiplyMT(MTC, vectorR, MTsize, MTsize, 1);
+
+                CompareMTDetail(MTResultL, MTResultR);
+                detail += "---------------------\r\n";
+                detail += "A x (B x r) = \r\n" + PrintMatrix(MTResultL,rowCompare,columnCompare) + "\r\n";
+                detail += "C x r = \r\n" +PrintMatrix(MTResultR,rowCompare,columnCompare)+"\r\n";
+               
+                if (!CompareMT(MTResultR, MTResultL))
+                    return false;
+            }
+            return true;
+        }
+
+
         int dem;
         private bool MatrixEqualityTest(int[,] MTA, int[,] MTB, int[,] MTC,ref int k)
         {

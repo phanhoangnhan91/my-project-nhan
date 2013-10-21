@@ -32,6 +32,7 @@
             System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.chk_detail = new System.Windows.Forms.CheckBox();
             this.label5 = new System.Windows.Forms.Label();
             this.lbResult2 = new System.Windows.Forms.Label();
             this.lbResult1 = new System.Windows.Forms.Label();
@@ -76,6 +77,7 @@
             // 
             // tabPage1
             // 
+            this.tabPage1.Controls.Add(this.chk_detail);
             this.tabPage1.Controls.Add(this.label5);
             this.tabPage1.Controls.Add(this.lbResult2);
             this.tabPage1.Controls.Add(this.lbResult1);
@@ -99,6 +101,16 @@
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Algorithm";
             this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // chk_detail
+            // 
+            this.chk_detail.AutoSize = true;
+            this.chk_detail.Location = new System.Drawing.Point(444, 19);
+            this.chk_detail.Name = "chk_detail";
+            this.chk_detail.Size = new System.Drawing.Size(106, 21);
+            this.chk_detail.TabIndex = 25;
+            this.chk_detail.Text = "Show details";
+            this.chk_detail.UseVisualStyleBackColor = true;
             // 
             // label5
             // 
@@ -382,5 +394,6 @@
         private System.Windows.Forms.ColumnHeader columnHeader1;
         private System.Windows.Forms.ColumnHeader columnHeader2;
         private System.Windows.Forms.TextBox tbResultF;
+        private System.Windows.Forms.CheckBox chk_detail;
     }
 }

@@ -52,3 +52,33 @@ D:\SVN server\Code\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\M
 D:\SVN server\Code\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.csproj.GenerateResource.Cache
 D:\SVN server\Code\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.exe
 D:\SVN server\Code\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.pdb
+E:\Dropbox\Randomized\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\bin\Debug\MultiplyMatrix.exe.config
+E:\Dropbox\Randomized\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\bin\Debug\MultiplyMatrix.exe
+E:\Dropbox\Randomized\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\bin\Debug\MultiplyMatrix.pdb
+E:\Dropbox\Randomized\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.csprojResolveAssemblyReference.cache
+E:\Dropbox\Randomized\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.MutiplyMtrx.resources
+E:\Dropbox\Randomized\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.Properties.Resources.resources
+E:\Dropbox\Randomized\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.csproj.GenerateResource.Cache
+E:\Dropbox\Randomized\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.exe
+E:\Dropbox\Randomized\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.pdb
+E:\Dropbox\Randomized\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.F_Detail.resources
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\bin\Debug\MultiplyMatrix.exe.config
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\bin\Debug\MultiplyMatrix.exe
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\bin\Debug\MultiplyMatrix.pdb
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.csprojResolveAssemblyReference.cache
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.MutiplyMtrx.resources
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.Properties.Resources.resources
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.csproj.GenerateResource.Cache
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.exe
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.pdb
+C:\Users\ThanhMy\Downloads\RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.Detail.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\bin\Debug\MultiplyMatrix.exe.config
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\bin\Debug\MultiplyMatrix.exe
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\bin\Debug\MultiplyMatrix.pdb
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.csprojResolveAssemblyReference.cache
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.Detail.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.MutiplyMtrx.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.Properties.Resources.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.csproj.GenerateResource.Cache
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.exe
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.pdb

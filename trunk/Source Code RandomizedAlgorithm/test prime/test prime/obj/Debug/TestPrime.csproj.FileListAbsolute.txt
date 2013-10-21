@@ -19,3 +19,14 @@ E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\
 D:\SVN server\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\Client.Detail.resources
 D:\SVN server\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\Client.FrTestPrime.resources
 D:\SVN server\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\Client.Properties.Resources.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\test prime\test prime\bin\Debug\test prime.exe.config
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\test prime\test prime\bin\Debug\test prime.exe
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\test prime\test prime\bin\Debug\test prime.pdb
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\TestPrime.csprojResolveAssemblyReference.cache
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\Client.Detail.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\tetst_prime.dothi.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\Client.FrTestPrime.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\Client.Properties.Resources.resources
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\TestPrime.csproj.GenerateResource.Cache
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\test prime.exe
+E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\test prime.pdb
