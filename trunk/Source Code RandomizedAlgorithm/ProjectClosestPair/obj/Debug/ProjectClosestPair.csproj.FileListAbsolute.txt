@@ -1,0 +1,17 @@
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\ProjectClosestPair\bin\Debug\ProjectClosestPair.exe.config
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\ProjectClosestPair\bin\Debug\ProjectClosestPair.exe
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\ProjectClosestPair\bin\Debug\ProjectClosestPair.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.csprojResolveAssemblyReference.cache
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.FindClosestPair.resources
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.Properties.Resources.resources
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.csproj.GenerateResource.Cache
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.exe
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.pdb
+D:\SVN server\Code\RandomizedAlgorithm\ProjectClosestPair\bin\Debug\ProjectClosestPair.exe.config
+D:\SVN server\Code\RandomizedAlgorithm\ProjectClosestPair\bin\Debug\ProjectClosestPair.exe
+D:\SVN server\Code\RandomizedAlgorithm\ProjectClosestPair\bin\Debug\ProjectClosestPair.pdb
+D:\SVN server\Code\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.FindClosestPair.resources
+D:\SVN server\Code\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.Properties.Resources.resources
+D:\SVN server\Code\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.csproj.GenerateResource.Cache
+D:\SVN server\Code\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.exe
+D:\SVN server\Code\RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.pdb

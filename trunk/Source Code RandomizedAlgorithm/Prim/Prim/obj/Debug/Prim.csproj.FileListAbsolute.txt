@@ -1,0 +1,18 @@
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Kruskal\bin\Debug\Kruskal.dll.config
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Kruskal\bin\Debug\Kruskal.dll
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Kruskal\bin\Debug\Kruskal.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Kruskal\obj\Debug\Prim.csprojResolveAssemblyReference.cache
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Kruskal\obj\Debug\Kruskal.dll
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Kruskal\obj\Debug\Kruskal.pdb
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Kruskal\bin\Debug\Kruskal.dll.config
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Kruskal\bin\Debug\Kruskal.dll
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Kruskal\bin\Debug\Kruskal.pdb
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Kruskal\obj\Debug\Prim.csprojResolveAssemblyReference.cache
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Kruskal\obj\Debug\Kruskal.dll
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Kruskal\obj\Debug\Kruskal.pdb
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Prim\bin\Debug\Kruskal.dll.config
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Prim\bin\Debug\Kruskal.dll
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Prim\bin\Debug\Kruskal.pdb
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Prim\obj\Debug\Prim.csprojResolveAssemblyReference.cache
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Prim\obj\Debug\Kruskal.dll
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Prim\obj\Debug\Kruskal.pdb

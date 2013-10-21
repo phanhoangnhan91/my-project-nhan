@@ -1,0 +1,71 @@
+E:\SkyDrive\codeRA\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\bin\Debug\ProjectQuicksort.exe.config
+E:\SkyDrive\codeRA\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\bin\Debug\ProjectQuicksort.exe
+E:\SkyDrive\codeRA\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\bin\Debug\ProjectQuicksort.pdb
+E:\SkyDrive\codeRA\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\obj\Debug\ProjectQuicksort.csprojResolveAssemblyReference.cache
+E:\SkyDrive\codeRA\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\obj\Debug\ProjectQuicksort.csproj.GenerateResource.Cache
+E:\SkyDrive\codeRA\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\obj\Debug\ProjectQuicksort.exe
+E:\SkyDrive\codeRA\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\obj\Debug\ProjectQuicksort.pdb
+E:\SkyDrive\codeRA\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\obj\Debug\tetst_prime.dothi.resources
+E:\SkyDrive\codeRA\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\obj\Debug\tetst_prime.Properties.Resources.resources
+E:\SkyDrive\codeRA\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\obj\Debug\tetst_prime.QuicksortForm.resources
+E:\Study\LV\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\bin\Debug\ProjectQuicksort.exe.config
+E:\Study\LV\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\bin\Debug\ProjectQuicksort.exe
+E:\Study\LV\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\bin\Debug\ProjectQuicksort.pdb
+E:\Study\LV\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\obj\Debug\ProjectQuicksort.csprojResolveAssemblyReference.cache
+E:\Study\LV\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\obj\Debug\tetst_prime.dothi.resources
+E:\Study\LV\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\obj\Debug\tetst_prime.Properties.Resources.resources
+E:\Study\LV\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\obj\Debug\tetst_prime.QuicksortForm.resources
+E:\Study\LV\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\obj\Debug\ProjectQuicksort.csproj.GenerateResource.Cache
+E:\Study\LV\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\obj\Debug\ProjectQuicksort.exe
+E:\Study\LV\RandomizedAl\RandomizedAlgorithm\ProjectQuicksort\obj\Debug\ProjectQuicksort.pdb
+E:\Study\LV\RandomizeAlgorithm_01\ProjectQuicksort\bin\Debug\ProjectQuicksort.exe.config
+E:\Study\LV\RandomizeAlgorithm_01\ProjectQuicksort\obj\Debug\ProjectQuicksort.exe
+E:\Study\LV\RandomizeAlgorithm_01\ProjectQuicksort\obj\Debug\ProjectQuicksort.pdb
+E:\Study\LV\RandomizeAlgorithm_01\ProjectQuicksort\bin\Debug\ProjectQuicksort.exe
+E:\Study\LV\RandomizeAlgorithm_01\ProjectQuicksort\bin\Debug\ProjectQuicksort.pdb
+E:\Study\LV\RandomizeAlgorithm_01\ProjectQuicksort\obj\Debug\ProjectQuicksort.csprojResolveAssemblyReference.cache
+E:\Study\LV\RandomizeAlgorithm_01\ProjectQuicksort\obj\Debug\tetst_prime.dothi.resources
+E:\Study\LV\RandomizeAlgorithm_01\ProjectQuicksort\obj\Debug\tetst_prime.Properties.Resources.resources
+E:\Study\LV\RandomizeAlgorithm_01\ProjectQuicksort\obj\Debug\tetst_prime.QuicksortForm.resources
+E:\Study\LV\RandomizeAlgorithm_01\ProjectQuicksort\obj\Debug\ProjectQuicksort.csproj.GenerateResource.Cache
+C:\Users\ThanhMy\Google Drive\Code_RA\Quicksort\ProjectQuicksort\bin\Debug\ProjectQuicksort.exe.config
+C:\Users\ThanhMy\Google Drive\Code_RA\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.exe
+C:\Users\ThanhMy\Google Drive\Code_RA\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\Quicksort\ProjectQuicksort\bin\Debug\ProjectQuicksort.exe
+C:\Users\ThanhMy\Google Drive\Code_RA\Quicksort\ProjectQuicksort\bin\Debug\ProjectQuicksort.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.csprojResolveAssemblyReference.cache
+C:\Users\ThanhMy\Google Drive\Code_RA\Quicksort\ProjectQuicksort\obj\Debug\tetst_prime.dothi.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\Quicksort\ProjectQuicksort\obj\Debug\tetst_prime.Properties.Resources.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\Quicksort\ProjectQuicksort\obj\Debug\tetst_prime.QuicksortForm.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.csproj.GenerateResource.Cache
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\Quicksort\ProjectQuicksort\bin\Debug\ProjectQuicksort.exe.config
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\Quicksort\ProjectQuicksort\bin\Debug\ProjectQuicksort.exe
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\Quicksort\ProjectQuicksort\bin\Debug\ProjectQuicksort.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.csprojResolveAssemblyReference.cache
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.dothi.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.Properties.Resources.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.QuicksortForm.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.csproj.GenerateResource.Cache
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.exe
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\bin\Debug\ProjectQuicksort.exe.config
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\bin\Debug\ProjectQuicksort.exe
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\bin\Debug\ProjectQuicksort.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.csprojResolveAssemblyReference.cache
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.dothi.resources
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.Properties.Resources.resources
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.QuicksortForm.resources
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.csproj.GenerateResource.Cache
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.exe
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.pdb
+D:\SVN server\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\bin\Debug\ProjectQuicksort.exe.config
+D:\SVN server\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\bin\Debug\ProjectQuicksort.exe
+D:\SVN server\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\bin\Debug\ProjectQuicksort.pdb
+D:\SVN server\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.csprojResolveAssemblyReference.cache
+D:\SVN server\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.dothi.resources
+D:\SVN server\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.Properties.Resources.resources
+D:\SVN server\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.QuicksortForm.resources
+D:\SVN server\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.csproj.GenerateResource.Cache
+D:\SVN server\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.exe
+D:\SVN server\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.pdb
+D:\SVN server\Code\RandomizedAlgorithm\Quicksort\ProjectQuicksort\obj\Debug\ProjectQuicksort.Detail.resources

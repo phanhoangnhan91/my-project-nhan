@@ -1,0 +1,21 @@
+D:\SVN server\Code\RandomizedAlgorithm\test prime\test prime\bin\Debug\test prime.exe.config
+D:\SVN server\Code\RandomizedAlgorithm\test prime\test prime\bin\Debug\test prime.exe
+D:\SVN server\Code\RandomizedAlgorithm\test prime\test prime\bin\Debug\test prime.pdb
+D:\SVN server\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\TestPrime.csprojResolveAssemblyReference.cache
+D:\SVN server\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\tetst_prime.dothi.resources
+D:\SVN server\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\TestPrime.csproj.GenerateResource.Cache
+D:\SVN server\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\test prime.exe
+D:\SVN server\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\test prime.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\test prime\test prime\bin\Debug\test prime.exe.config
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\test prime\test prime\bin\Debug\test prime.exe
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\test prime\test prime\bin\Debug\test prime.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\TestPrime.csprojResolveAssemblyReference.cache
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\tetst_prime.dothi.resources
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\test_prime.FrTestPrime.resources
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\test_prime.Properties.Resources.resources
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\TestPrime.csproj.GenerateResource.Cache
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\test prime.exe
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\test prime.pdb
+D:\SVN server\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\Client.Detail.resources
+D:\SVN server\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\Client.FrTestPrime.resources
+D:\SVN server\Code\RandomizedAlgorithm\test prime\test prime\obj\Debug\Client.Properties.Resources.resources

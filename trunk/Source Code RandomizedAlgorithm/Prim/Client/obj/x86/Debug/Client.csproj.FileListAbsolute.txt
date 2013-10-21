@@ -1,0 +1,155 @@
+C:\Users\Omar\Downloads\KruskalAlgorithm\Client\bin\Debug\Client.exe.config
+C:\Users\Omar\Downloads\KruskalAlgorithm\Client\bin\Debug\Client.exe
+C:\Users\Omar\Downloads\KruskalAlgorithm\Client\bin\Debug\Client.pdb
+C:\Users\Omar\Downloads\KruskalAlgorithm\Client\bin\Debug\Kruskal.dll
+C:\Users\Omar\Downloads\KruskalAlgorithm\Client\bin\Debug\Kruskal.pdb
+C:\Users\Omar\Downloads\KruskalAlgorithm\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Downloads\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmCost.resources
+C:\Users\Omar\Downloads\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmMain.resources
+C:\Users\Omar\Downloads\KruskalAlgorithm\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Omar\Downloads\KruskalAlgorithm\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Omar\Downloads\KruskalAlgorithm\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Omar\Downloads\KruskalAlgorithm\Client\obj\x86\Debug\Client.exe
+C:\Users\Omar\Downloads\KruskalAlgorithm\Client\obj\x86\Debug\Client.pdb
+E:\Downloads\Compressed\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe.config
+E:\Downloads\Compressed\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.exe
+E:\Downloads\Compressed\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.pdb
+E:\Downloads\Compressed\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe
+E:\Downloads\Compressed\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.pdb
+E:\Downloads\Compressed\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.dll
+E:\Downloads\Compressed\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.pdb
+E:\Downloads\Compressed\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Downloads\Compressed\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmCost.resources
+E:\Downloads\Compressed\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmMain.resources
+E:\Downloads\Compressed\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\Downloads\Compressed\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\SkyDrive\codeRA\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe.config
+E:\SkyDrive\codeRA\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.exe
+E:\SkyDrive\codeRA\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.pdb
+E:\SkyDrive\codeRA\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe
+E:\SkyDrive\codeRA\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.pdb
+E:\SkyDrive\codeRA\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.dll
+E:\SkyDrive\codeRA\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.pdb
+E:\SkyDrive\codeRA\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\SkyDrive\codeRA\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmCost.resources
+E:\SkyDrive\codeRA\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\SkyDrive\codeRA\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\SkyDrive\codeRA\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.dothi.resources
+E:\SkyDrive\codeRA\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmMinimuSpanningStree.resources
+E:\code\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe.config
+E:\code\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.exe
+E:\code\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.pdb
+E:\code\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe
+E:\code\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.pdb
+E:\code\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.dll
+E:\code\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.pdb
+E:\code\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\code\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.dothi.resources
+E:\code\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmCost.resources
+E:\code\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmMinimuSpanningStree.resources
+E:\code\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\code\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\ThanhMy\Google Drive\RA_shared\KruskalAlgorithm-v9 sua rename\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe.config
+C:\Users\ThanhMy\Google Drive\RA_shared\KruskalAlgorithm-v9 sua rename\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.exe
+C:\Users\ThanhMy\Google Drive\RA_shared\KruskalAlgorithm-v9 sua rename\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.pdb
+C:\Users\ThanhMy\Google Drive\RA_shared\KruskalAlgorithm-v9 sua rename\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe
+C:\Users\ThanhMy\Google Drive\RA_shared\KruskalAlgorithm-v9 sua rename\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.pdb
+C:\Users\ThanhMy\Google Drive\RA_shared\KruskalAlgorithm-v9 sua rename\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.dll
+C:\Users\ThanhMy\Google Drive\RA_shared\KruskalAlgorithm-v9 sua rename\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.pdb
+C:\Users\ThanhMy\Google Drive\RA_shared\KruskalAlgorithm-v9 sua rename\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ThanhMy\Google Drive\RA_shared\KruskalAlgorithm-v9 sua rename\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.dothi.resources
+C:\Users\ThanhMy\Google Drive\RA_shared\KruskalAlgorithm-v9 sua rename\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmCost.resources
+C:\Users\ThanhMy\Google Drive\RA_shared\KruskalAlgorithm-v9 sua rename\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmMinimuSpanningStree.resources
+C:\Users\ThanhMy\Google Drive\RA_shared\KruskalAlgorithm-v9 sua rename\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ThanhMy\Google Drive\RA_shared\KruskalAlgorithm-v9 sua rename\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe.config
+D:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.exe
+D:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.pdb
+D:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe
+D:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.pdb
+D:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.dll
+D:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.pdb
+D:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.dothi.resources
+D:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmCost.resources
+D:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmMinimuSpanningStree.resources
+D:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe.config
+E:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.exe
+E:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.pdb
+E:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe
+E:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.pdb
+E:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.dll
+E:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.pdb
+E:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.dothi.resources
+E:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmCost.resources
+E:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmMinimuSpanningStree.resources
+E:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\SkyDrive\codeRA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\ThanhMy\Google Drive\Code_RA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe.config
+C:\Users\ThanhMy\Google Drive\Code_RA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.exe
+C:\Users\ThanhMy\Google Drive\Code_RA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe
+C:\Users\ThanhMy\Google Drive\Code_RA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.dll
+C:\Users\ThanhMy\Google Drive\Code_RA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ThanhMy\Google Drive\Code_RA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.dothi.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmCost.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmMinimuSpanningStree.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\skydrive moi\SkyDrive\code\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe.config
+D:\skydrive moi\SkyDrive\code\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.exe
+D:\skydrive moi\SkyDrive\code\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.pdb
+D:\skydrive moi\SkyDrive\code\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\skydrive moi\SkyDrive\code\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.dothi.resources
+D:\skydrive moi\SkyDrive\code\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmCost.resources
+D:\skydrive moi\SkyDrive\code\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmMinimuSpanningStree.resources
+D:\skydrive moi\SkyDrive\code\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\skydrive moi\SkyDrive\code\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\skydrive moi\SkyDrive\code\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe
+D:\skydrive moi\SkyDrive\code\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.pdb
+D:\skydrive moi\SkyDrive\code\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.dll
+D:\skydrive moi\SkyDrive\code\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe.config
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.dll
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.dothi.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmCost.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmMinimuSpanningStree.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.exe
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.dothi.resources
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmCost.resources
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmMinimuSpanningStree.resources
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.exe
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe.config
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.dll
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.pdb
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe.config
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.exe
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Client.pdb
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.dll
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\bin\Debug\Kruskal.pdb
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.dothi.resources
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmCost.resources
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Kruskal.frmMinimuSpanningStree.resources
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.exe
+D:\SVN server\Code\RandomizedAlgorithm\prim\KruskalAlgorithm\KruskalAlgorithm\Client\obj\x86\Debug\Client.pdb
