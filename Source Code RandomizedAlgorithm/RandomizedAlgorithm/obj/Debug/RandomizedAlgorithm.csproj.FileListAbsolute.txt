@@ -1,0 +1,67 @@
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.exe.config
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.exe
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Client.exe
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\MultiplyMatrix.exe
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ProjectQuicksort.exe
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\test prime.exe
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Kruskal.dll
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\MultiplyMatrix.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ProjectQuicksort.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\test prime.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Client.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Kruskal.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.Form1.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.Properties.Resources.resources
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.csproj.GenerateResource.Cache
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.exe
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.pdb
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ClosestPair.exe
+C:\Users\ThanhMy\Google Drive\Code_RA\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ClosestPair.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.exe.config
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.exe
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.csprojResolveAssemblyReference.cache
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.Form1.resources
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.Properties.Resources.resources
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.csproj.GenerateResource.Cache
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.exe
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Client.exe
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Kruskal.dll
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\MultiplyMatrix.exe
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ProjectQuicksort.exe
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\test prime.exe
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\MultiplyMatrix.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Kruskal.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ProjectQuicksort.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\test prime.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Client.pdb
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ProjectClosestPair.exe
+E:\RandomizedAlgorithm\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ProjectClosestPair.pdb
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.exe.config
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.exe
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.pdb
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.exe
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.pdb
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Client.exe
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Kruskal.dll
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\MultiplyMatrix.exe
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ProjectClosestPair.exe
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ProjectQuicksort.exe
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\test prime.exe
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\MultiplyMatrix.pdb
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Client.pdb
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\Kruskal.pdb
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ProjectClosestPair.pdb
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\ProjectQuicksort.pdb
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\test prime.pdb
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.csprojResolveAssemblyReference.cache
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.Form1.resources
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.Properties.Resources.resources
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.csproj.GenerateResource.Cache
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.exe.manifest
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\bin\Debug\RandomizedAlgorithm.application
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.exe.manifest
+D:\SVN server\Code\RandomizedAlgorithm\RandomizedAlgorithm\obj\Debug\RandomizedAlgorithm.application

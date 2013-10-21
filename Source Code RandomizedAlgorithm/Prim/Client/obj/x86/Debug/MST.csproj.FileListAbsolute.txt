@@ -1,0 +1,15 @@
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\bin\Debug\Client.exe.config
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\bin\Debug\Client.exe
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\bin\Debug\Client.pdb
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\bin\Debug\Kruskal.dll
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\bin\Debug\Kruskal.pdb
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\obj\x86\Debug\MST.csprojResolveAssemblyReference.cache
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\obj\x86\Debug\Client.Detail.resources
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\obj\x86\Debug\Prim.dothi.resources
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\obj\x86\Debug\Client.FormInputNumberEdge.resources
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\obj\x86\Debug\Prim.frmCost.resources
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\obj\x86\Debug\Prim.frmMinimuSpanningStree.resources
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\obj\x86\Debug\MST.csproj.GenerateResource.Cache
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\obj\x86\Debug\Client.exe
+D:\SVN server\Code\RandomizedAlgorithm\Prim\Client\obj\x86\Debug\Client.pdb
