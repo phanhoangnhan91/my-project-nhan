@@ -15,7 +15,6 @@ namespace ProjectClosestPair
     public partial class FindClosestPair : Form
     {
        Random random;
-       string detail;
         public FindClosestPair()
         {
             InitializeComponent();
@@ -63,7 +62,7 @@ namespace ProjectClosestPair
 
                 for (int i = 0; i < P.Length; i++)
                 {
-                    P[i] = new IPoint(random.Next(-100,P.Length*10), random.Next(-100,P.Length*10));
+                    P[i] = new IPoint(random.Next(0,P.Length*10), random.Next(0,P.Length*10));
                 }
                 tbInput.Text = PrintArrP(P);
 
@@ -129,9 +128,10 @@ namespace ProjectClosestPair
                 if (chk_detail.Checked)
                 {
                     strDetail = new StringBuilder();
-                    detail = "";
                     Detail f = new Detail();
                     distance = double.MaxValue;
+                    strDetail.AppendLine("Input: " + PrintArrP(inputP));
+                    strDetail.AppendLine("-------------------------------------------");
                     bruteForceDetail(inputP, ref distance);
                     f.result =strDetail.ToString();
                     f.ShowDialog();
@@ -175,23 +175,21 @@ namespace ProjectClosestPair
                 {
                     double distXY = distanceXY(P[i], P[j]);
                     countDis++;
-                    strDetail.AppendLine(String.Format("Distance between ({0}, {1}) and ({2}, {3}): {4}\r\n",P[i]._X,P[i]._Y,P[j]._X,P[j]._Y,Math.Round(distXY,3)));
-                //    detail += String.Format("Distance between ({0}, {1}) and ({2}, {3}): {4}\r\n",P[i]._X,P[i]._Y,P[j]._X,P[j]._Y,Math.Round(distXY,3));
+                    strDetail.Append(String.Format("Distance between ({0}, {1}) and ({2}, {3}): {4}",P[i]._X,P[i]._Y,P[j]._X,P[j]._Y,Math.Round(distXY,3)));
                     if (distXY < minDist)
                     {
+                        strDetail.Append("-->now we choose this pair");
                         minDist = distXY;
                         result[0] = P[i];
                         result[1] = P[j];
                     }
+                    strDetail.AppendLine();
+                    strDetail.AppendLine();
                 }
             }
-            strDetail.AppendLine("--------------------------------------");
-           // detail += "--------------------------------------\r\n";
-            strDetail.AppendLine(String.Format("Number of distance computation: {0}", countDis));
-            //detail += String.Format("Number of distance computation: {0}\r\n", countDis);
-            strDetail.AppendLine(String.Format("Closest pair:({0}, {1}) - ({2}, {3}). Distance: {4} ", result[0]._X, result[0]._Y, result[1]._X, result[1]._Y, Math.Round(minDist, 3)));
-            //detail += String.Format("Closest pair:({0}, {1}) - ({2}, {3}). Distance: {4} ", result[0]._X, result[0]._Y, result[1]._X, result[1]._Y, Math.Round(minDist, 3));
-               
+            strDetail.AppendLine("--------------------------------------");           
+            strDetail.AppendLine(String.Format("Number of distance computation: {0}", countDis));           
+            strDetail.AppendLine(String.Format("Closest pair:({0}, {1}) - ({2}, {3}). Distance: {4} ", result[0]._X, result[0]._Y, result[1]._X, result[1]._Y, Math.Round(minDist, 3)));            
         }
 
         #endregion
@@ -225,17 +223,20 @@ namespace ProjectClosestPair
                 if (chk_detail.Checked)
                 {
                     recursiveTime = 0;
-                    detail = "";
+                    strDetail = new StringBuilder();
                     Detail f = new Detail();
+
                     inputP = ReadArrP();
                     sortedX = (from arr in inputP
                                    orderby arr._X
                                    select arr).ToArray();
-                    detail += "Input: " + PrintArrP(inputP) + "\r\n";
-                    detail += "Pre-processing:sorted according to x coordinates: ";
-                    detail += PrintArrP(sortedX)+"\r\n";
+                    strDetail.AppendLine("Input: " + PrintArrP(inputP));
+                    strDetail.AppendLine("Pre-processing: sorted according to x coordinates");
+                    strDetail.AppendLine(PrintArrP(sortedX));
+                    strDetail.AppendLine("---------------------------------------------");
+
                     IPoint[] pointDetai = closestDCDetail(sortedX, out distance);
-                    f.result = detail;
+                    f.result = strDetail.ToString();
                     f.ShowDialog();
                 }
             }
@@ -307,9 +308,10 @@ namespace ProjectClosestPair
         {
             StringBuilder str = new StringBuilder();
             for (int i = 0; i < recursiveT; i++)
-                str.Append("  ");
+                str.Append("   ");
             return str.ToString();
         }
+
         int recursiveTime;
         private IPoint[] closestDCDetail(IPoint[] P, out double distance)
         {
@@ -319,8 +321,7 @@ namespace ProjectClosestPair
             //Nếu đầu vào có 2 hoặc 3 điểm sử dụng chiến lược trực tiếp
             if (P.Length <= 3)
             {
-
-                detail += PrintTab(recursiveTime) + String.Format("Find closest pair of {0}. ", PrintArrP(P));
+                strDetail.AppendLine(String.Format("{0}Find closest pair in {1}",PrintTab(recursiveTime),PrintArrP(P)));
                 recursiveTime--;
                 return bruteForce(P, ref distance);
             }
@@ -328,7 +329,7 @@ namespace ProjectClosestPair
 
             //Chia mảng làm hai phần
             int mid = (int)P.Length / 2;
-            detail +=PrintTab(recursiveTime)+ "Devide array to 2 part: \r\n";
+            strDetail.AppendLine(PrintTab(recursiveTime)+"Devide array to 2 part:");
             IPoint[] pointLeft = new IPoint[mid];
             IPoint[] pointRight = new IPoint[P.Length - mid];
             for (int i = 0; i < mid; i++)
@@ -343,9 +344,9 @@ namespace ProjectClosestPair
             IPoint[] pairLeft = new IPoint[2];
             IPoint[] pairRight = new IPoint[2];
             double distanceL, distanceR;
-            detail += PrintTab(recursiveTime) + "Left part: " + PrintArrP(pointLeft) + "\r\n";
+            strDetail.AppendLine(String.Format("{0}Left part: {1}", PrintTab(recursiveTime),PrintArrP(pointLeft)));
             pairLeft = closestDCDetail(pointLeft, out distanceL);
-            detail += PrintTab(recursiveTime) + "Right part: " + PrintArrP(pointRight) + "\r\n";
+            strDetail.AppendLine(String.Format("{0}Right part: {1}", PrintTab(recursiveTime), PrintArrP(pointRight)));
             pairRight = closestDCDetail(pointRight, out distanceR);
 
             //Chọn khoảng cách ngắn nhất giữa 2 kết quả
@@ -359,7 +360,7 @@ namespace ProjectClosestPair
                 result = pairLeft;
                 distance = distanceL;
             }
-
+            strDetail.AppendLine(String.Format("{0}Smallest distances in both subarrays: {1}",PrintTab(recursiveTime),distance));
             //Tạo mảng gồm các điểm có hoành độ đến điểm giữa mảng nhỏ hơn khoảng cách được chọn ở trên
             //Tạo tập điểm midPoints
             int midCoordinate = P[mid]._X;
@@ -369,24 +370,25 @@ namespace ProjectClosestPair
                              where arr._X > xDown && arr._X < xUpper
                              orderby arr._Y
                              select arr).ToArray();
-            detail += PrintTab(recursiveTime) + "  Point(s) in middle part: " + PrintArrP(midPoints) + "\r\n";
+
+            strDetail.AppendLine(String.Format("{0}Point(s) in middle part: {1}", PrintTab(recursiveTime), PrintArrP(midPoints)));
             // Khoảng cách ngắn nhất là khoảng cách ngắn nhất được tìm thấy trong tập hợp điểm midPoints
             if (midPoints.Length > 1)
             {
-                detail +=PrintTab(recursiveTime) + String.Format("Find closest pair of middle points {0}\r\n{1}We use the straightforward method\r\n", PrintArrP(midPoints),PrintTab(recursiveTime));
+                strDetail.AppendLine(String.Format("{0}Find closest pair in middle part {1}",PrintTab(recursiveTime),PrintArrP(midPoints)));
                 IPoint[] resultTmp = bruteForce(midPoints, ref distance);
                 if (resultTmp != null)
-                {                   
-                    detail += PrintTab(recursiveTime) + String.Format("Closest pair: ({0}, {1})-({2}, {3}). Distance: {4}\r\n", result[0]._X, result[0]._Y, result[1]._X, result[1]._Y, distance);
+                {
+                    strDetail.AppendLine(string.Format("{0}Closest pair: ({1}, {2})-({3}, {4}). Distance: {5}", PrintTab(recursiveTime), result[0]._X, result[0]._Y, result[1]._X, result[1]._Y, distance));
                     recursiveTime--;
                     return resultTmp;
                 }
             }
-            else
+            else 
             {
-                detail += PrintTab(recursiveTime) + " No points whose x coordinate is closer than " + distance + "\r\n";
+                strDetail.AppendLine("No points whose x coordinate is closer than" + distance);
             }
-            detail += PrintTab(recursiveTime) + String.Format("Closest pair: ({0}, {1})-({2}, {3}). Distance: {4}\r\n", result[0]._X, result[0]._Y, result[1]._X, result[1]._Y, distance);
+            strDetail.AppendLine(string.Format("{0}Closest pair: ({1}, {2})-({3}, {4}). Distance: {5}", PrintTab(recursiveTime), result[0]._X, result[0]._Y, result[1]._X, result[1]._Y, distance));
             recursiveTime--;
             return result;
         }
@@ -423,6 +425,8 @@ namespace ProjectClosestPair
                     Detail f = new Detail();
                     f.Text = "Detail of Randomized Algorithm";
                     IPoint[] resultDetail = RandomizedAlDetail(inputP, out distance);
+                    strDetail.AppendLine("-----------------------------");
+                    strDetail.AppendLine(String.Format("Output:\r\nClosest pair: ({0}, {1})-({2}, {3}).Distance: {4}", resultDetail[0]._X, resultDetail[0]._Y, resultDetail[1]._X, resultDetail[1]._Y, distance));
                     f.result = strDetail.ToString();
                     f.ShowDialog();
                 }
@@ -642,6 +646,7 @@ namespace ProjectClosestPair
             }
             strDetail.Append(PrintSquare(boT));
             Dictionary<string, List<IPoint>> doubleSize = FindNeighbor(boT, SquareInRow);
+            strDetail.AppendLine("****");
             strDetail.Append("Constructor squares by double delta. We will find closest pair in those squares so they must contain at least 2 points \r\n");
             strDetail.Append(PrintSquare(doubleSize));
             //Tìm khoảng cách ngắn nhất từ các hình vuông mở rộng
@@ -660,7 +665,7 @@ namespace ProjectClosestPair
                     int countInPair=pair.Value.ToArray().Length;
                     countCompair += countInPair * (countInPair - 1) / 2;
                 }
-                strDetail.AppendLine(String.Format("Find closest pair in {0} pair", countCompair));
+                strDetail.AppendLine(String.Format("Number of distance computation: {0} ", countCompair));
             
             strDetail.Append(String.Format("Closest pair: ({0}, {1}) - ({2}, {3}). Distance: {4}\r\n", resultP[0]._X, resultP[0]._Y, resultP[1]._X, resultP[1]._Y, distanceRA));
             return resultP;
@@ -745,18 +750,5 @@ namespace ProjectClosestPair
             chart1.Series.Clear();
         } 
     }
-    public class Square
-    {
-        public List<IPoint> lstPoints { get; set; }
-        public Square()
-        {
-            this.lstPoints = new List<IPoint>();
-        }
-        public Square(List<IPoint> l1, List<IPoint> l2)
-        {
-            this.lstPoints = new List<IPoint>();
-            lstPoints.AddRange(l1);
-            lstPoints.AddRange(l2);
-        }
-    }    
+   
 }
