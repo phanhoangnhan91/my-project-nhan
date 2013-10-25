@@ -82,3 +82,13 @@ E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\MultiplyMatrix\Multip
 E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.csproj.GenerateResource.Cache
 E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.exe
 E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.pdb
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.csprojResolveAssemblyReference.cache
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.exe
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.pdb
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\bin\Debug\MultiplyMatrix.exe.config
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\bin\Debug\MultiplyMatrix.exe
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\bin\Debug\MultiplyMatrix.pdb
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.Detail.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.MutiplyMtrx.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.Properties.Resources.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\MultiplyMatrix\MultiplyMatrix\obj\Debug\MultiplyMatrix.csproj.GenerateResource.Cache

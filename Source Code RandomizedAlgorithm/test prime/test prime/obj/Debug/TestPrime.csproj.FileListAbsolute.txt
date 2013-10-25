@@ -30,3 +30,14 @@ E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\test prime\test prime
 E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\TestPrime.csproj.GenerateResource.Cache
 E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\test prime.exe
 E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\test prime.pdb
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\test prime\test prime\bin\Debug\test prime.exe.config
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\test prime\test prime\bin\Debug\test prime.exe
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\test prime\test prime\bin\Debug\test prime.pdb
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\TestPrime.csprojResolveAssemblyReference.cache
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\Client.Detail.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\tetst_prime.dothi.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\Client.FrTestPrime.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\Client.Properties.Resources.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\TestPrime.csproj.GenerateResource.Cache
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\test prime.exe
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\test prime\test prime\obj\Debug\test prime.pdb

@@ -22,3 +22,9 @@ E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Prim\bin\Debug\K
 E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Prim\obj\Debug\Prim.csprojResolveAssemblyReference.cache
 E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Prim\obj\Debug\Kruskal.dll
 E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Prim\obj\Debug\Kruskal.pdb
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Prim\bin\Debug\Kruskal.dll.config
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Prim\bin\Debug\Kruskal.dll
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Prim\bin\Debug\Kruskal.pdb
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Prim\obj\Debug\Prim.csprojResolveAssemblyReference.cache
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Prim\obj\Debug\Kruskal.dll
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Prim\obj\Debug\Kruskal.pdb

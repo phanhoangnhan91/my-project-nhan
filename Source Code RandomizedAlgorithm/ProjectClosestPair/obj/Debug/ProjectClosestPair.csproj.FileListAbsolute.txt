@@ -35,3 +35,13 @@ E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\ProjectClosestPair\ob
 E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.csproj.GenerateResource.Cache
 E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.exe
 E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.pdb
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.csprojResolveAssemblyReference.cache
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.exe
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.pdb
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\ProjectClosestPair\bin\Debug\ProjectClosestPair.exe.config
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\ProjectClosestPair\bin\Debug\ProjectClosestPair.exe
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\ProjectClosestPair\bin\Debug\ProjectClosestPair.pdb
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.Detail.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.FindClosestPair.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.Properties.Resources.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\ProjectClosestPair\obj\Debug\ProjectClosestPair.csproj.GenerateResource.Cache

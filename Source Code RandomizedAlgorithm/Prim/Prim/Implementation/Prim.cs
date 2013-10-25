@@ -824,8 +824,8 @@
              #endregion
 
              // Nếu số cạnh bằng số đỉnh -1 thì không phải giải tiếp
-             if (vertexName.Count - 1 == graph.Count)
-                 return graph;
+             //if (vertexName.Count - 1 == graph.Count)
+             //    return graph;
 
              #region tính với mỗi đỉnh tìm cạnh có trọng số nhỏ nhất trả về solvedGraph
              for (int i = 0; i < vertexName.Count; i++)// với mỗi đỉnh tìm cạnh có trọng số nhỏ nhất
