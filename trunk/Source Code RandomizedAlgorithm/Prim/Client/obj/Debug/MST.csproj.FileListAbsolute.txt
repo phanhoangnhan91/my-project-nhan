@@ -43,3 +43,18 @@ E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug
 E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\MST.csproj.GenerateResource.Cache
 E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Client.exe
 E:\Project\C#\RandomizedAl\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Client.pdb
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Client\bin\Debug\Client.exe.config
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Client\bin\Debug\Client.exe
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Client\bin\Debug\Client.pdb
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Client\bin\Debug\Kruskal.dll
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Client\bin\Debug\Kruskal.pdb
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\MST.csprojResolveAssemblyReference.cache
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Prim.Detail.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Prim.dothi.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Client.FormInputNumberEdge.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Prim.frmCost.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Prim.frmMinimuSpanningStree.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Client.Properties.Resources.resources
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\MST.csproj.GenerateResource.Cache
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Client.exe
+D:\SVN server\Khoa luan GTNN NEW\my-project-nhan\Source Code RandomizedAlgorithm\Prim\Client\obj\Debug\Client.pdb
